@@ -1,0 +1,137 @@
+.container-fluid2{
+    height: 300px;
+    margin-inline: auto;
+    width: 1500px;
+    margin-top: 85px;
+}
+.b{
+    display: none;
+}
+.fc-col-header-cell-cushion{
+    color: #9274b3;
+}
+.fc-toolbar-title {
+    text-transform: capitalize;
+    font-weight: bold;
+    color: #9274b3;
+  }
+.fc-prev-button,
+.fc-prev-button.fc-button,
+.fc-prev-button.fc-button-primary {
+background-color: #f38238;
+/* Otros estilos que desees aplicar */
+}
+.fc-next-button,
+.fc-next-button.fc-button,
+.fc-next-button.fc-button-primary {
+background-color: #f38238;
+/* Otros estilos que desees aplicar */
+}
+.fc-today-button.fc-button.fc-button-primary {
+background-color: #f38238;
+/* Otros estilos que desees aplicar */
+}
+/* Cambiar color del botón dayGridMonth */
+.fc-dayGridMonth-button.fc-button.fc-button-primary.fc-button-active {
+background-color: #8fab60;
+/* Otros estilos que desees aplicar */
+}
+.fc-dayGridMonth-button.fc-button.fc-button-primary.fc-button-active {
+background-color: #8fab60;
+/* Otros estilos que desees aplicar */
+}
+.fc-dayGridMonth-button.fc-button.fc-button-primary{
+background-color: #b4d77b;
+
+}
+/* Cambiar color del botón timeGridWeek */
+.fc-timeGridWeek-button.fc-button.fc-button-primary.fc-button-active{
+background-color: #8fab60;
+/* Otros estilos que desees aplicar */
+}
+
+/* Cambiar color del botón timeGridDay */
+.fc-timeGridDay-button.fc-button.fc-button-primary.fc-button-active {
+background-color: #8fab60;
+/* Otros estilos que desees aplicar */
+}
+
+/* Cambiar color del botón timeGridWeek */
+.fc-timeGridWeek-button,
+.fc-timeGridWeek-button.fc-button,
+.fc-timeGridWeek-button.fc-button-primary {
+background-color: #b4d77b;
+/* Otros estilos que desees aplicar */
+}
+
+/* Cambiar color del botón timeGridDay */
+.fc-timeGridDay-button,
+.fc-timeGridDay-button.fc-button,
+.fc-timeGridDay-button.fc-button-primary {
+background-color: #b4d77b;
+/* Otros estilos que desees aplicar */
+}
+.modal-content{
+max-width: 690px;
+width: 450px;
+color: #9274b3;
+margin-inline: auto;
+margin-top: 80px;
+background-color: #fff;
+border-style: double;
+border-color:#b4d77b;
+padding: 15px 35px;
+border-radius: 2em;
+box-shadow: 0 1px 1rem 
+    rgba(0, 0, 0, 0.1);
+}
+label{
+font-size: 15px;
+color: #9274b3;
+display: flex;
+font-weight: bold;
+align-items: center;
+gap: 1.1rem;
+}
+.form-control{
+width: 100%;
+padding: 5px 5px;
+border-radius: 8px;
+background-color: #f2f2f2;
+height: 100%;
+font-size: 15px;
+}
+.close {
+color: #aaa;
+margin-left: 360px;
+cursor: pointer;
+margin-bottom: -20px;
+font-size: 23px;
+font-weight: bold;
+}
+.form-row{
+flex-direction: row;
+}
+#BotonAgregar{
+background-color: #f38238;
+border-color: #f38238;
+font-size: 15px;
+
+}#BotonModificar{
+background-color: lightgreen;
+border-color: lightgreen;
+font-size: 15px;
+
+}#BotonBorrar{
+background-color: rgb(212, 46, 46);
+border-color: rgb(212, 46, 46);
+font-size: 15px;
+
+}#cancelarr{
+background-color:#2682d9;
+border-color: blue;
+font-size: 15px;
+}
+.modal-body{
+width: 350px;
+}
